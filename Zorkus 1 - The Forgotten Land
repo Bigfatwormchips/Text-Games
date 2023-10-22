@@ -6,7 +6,7 @@ GoldenKey = 'GoldenKey'
 location = ""
 axe = 'axe'
 
-print("Technologic 2023. Game made by Arthur Keller, Technologic CEO and head Programmer in 2023. Welcome to Zorkus 1: The Forgotten Land! Your commands are 'use', 'south', 'west', 'north', 'up', 'down' 'grab', 'fight'.")
+print("Game made by Arthur Keller in 2023. Welcome to Zorkus 1: The Forgotten Land! Your commands are 'use', 'south', 'west', 'north', 'up', 'down' 'grab', 'fight'.")
 
 inventory = []
 coins = 'coins'
