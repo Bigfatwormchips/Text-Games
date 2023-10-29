@@ -20,7 +20,7 @@ print("   / /         |   __   |    |  | |   |  | | /   | |  | |   | ___\      "
 print("  / /          |  |__|  |    |  |_|   |   >^|    | |  | |   | |__      ")
 print("------------   |        |    |  |     |  |>| \   | |__| |   ---| |   ")      
 print("------------   |________|    |  |     |__| |__\  |______|  |___/_/    ")
-print("Technologic® 2023. Game made by Arthur Keller Technologic CEO and head Programmer in 2023. Welcome to Zorkus 2! The Stealing Of The Throne! Your commands are 'use', 'south', 'west', 'north', 'up', 'down' 'grab', 'fight'.")
+print("Welcome to Zorkus 2! The Stealing Of The Throne! Your commands are 'use', 'south', 'west', 'north', 'up', 'down' 'grab', 'fight'.")
 
 import time
 inventory = []
